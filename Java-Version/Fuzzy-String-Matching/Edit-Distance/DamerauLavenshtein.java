@@ -1,4 +1,4 @@
-package org.psychocoder.textprocessing.editdistance;
+package com.rawcoders.textmining.editdistance;
 
 /**
  *
